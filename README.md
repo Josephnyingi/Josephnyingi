@@ -29,10 +29,11 @@
 - 🧠 KaggleX BIPOC Fellow (Computer Vision & Forecasting)
 
 ---
-
 ## 📫 Let’s Connect
 📧 josenyingi@gmail.com  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/josephnyingi/](#) **Medium**: [https://medium.com/@Joseph_Nyingi](#)
+🔗 **LinkedIn**: [linkedin.com/in/josephnyingi](https://www.linkedin.com/in/josephnyingi/)  
+🔗 **Medium**: [medium.com/@Joseph_Nyingi](https://medium.com/@Joseph_Nyingi)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
