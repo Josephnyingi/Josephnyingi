@@ -1,40 +1,62 @@
+
+
 # 👋🏾 Hey, I’m Joseph — I turn data into impact.
 
-🌍 **Team lead @Anga**  
-📡 Building weather intelligence tools for offline-first farmers in Africa  
-🏆 Hackathon Winner – Cambridge SupTech, Power Learn, Jacob’s Ladder  
-📊 Turning data into usable tools for Fintech, SDGs, housing, and agri-resilience
+🌍 **Team lead @Anga** | 📊 Data Scientist | 📡 Climate-Tech Innovator  
+👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
+🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
 ---
 
-## 🔭 Currently Working On
-- 🌦️ Anga: USSD-based weather forecast + carbon scoring API
-- 🧪 ML for hyperlocal prediction (Open Meteo + FastAPI + GCP)
-- 🛰️ Climate-smart dashboards using geospatial and remote sensing data
-- 🤝 Collaborating with NGOs and SDG-aligned innovation labs
+## 🔭 What I'm Building
+
+- **Anga)** – USSD-based weather forecasts + carbon scoring for farmers  
+- **Inclusive Data Systems** – APIs & platforms for underserved users (Fintech, Health, Ag)  
+- **Geospatial Dashboards** – Visualizing climate, agriculture, and policy-linked data  
+- **OpenAPI Schemas** – Award-winning frameworks for climate finance tracking  
+- **Teaching** – Mentoring students & teams on sustainable tech and data science
 
 ---
 
-## 🌱 I Love
-- Data-for-development | AI for Climate | Inclusive Tech
-- OpenAPI standards | Remote sensing | Mobile-first design
-- Python · FastAPI · Flutter · QGIS · Plotly · Pandas · Power BI
+## 💼 Roles I’ve Played
+
+- 🇯🇵 Research Apprentice @ Gifu University – Energy, data, sustainability  
+- 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
+- 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
+- 🎓 Lecturer @ DeKUT – GIS, data science, and Envirnment Management
+- 🤖 AI Trainer @ Appen – Curated global training data for ML/AI models  
+- 🧑🏾‍💻 KaggleX BIPOC Fellow – Computer Vision model builder
 
 ---
 
-## 🏆 Highlights
-- 🥇 **Best Data Schema Design** – API Innovation Hackathon (2024)
-- 🥈 **First Runner-Up** – Power Learn Hackathon (2022)
-- 🥉 **Second Runner-Up** – Jacob’s Ladder Climate Hackathon (2022)
-- 🧠 KaggleX BIPOC Fellow (Computer Vision & Forecasting)
+## 🛠️ Skills
+
+**Languages**: Python · R · SQL  
+**Frameworks**: FastAPI · Flask · Flutter · USSD APIs  
+**Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly  · Redash · Metabase
+**Infra**: Git · GitHub Actions · GCP · Africa’s Talking  
 
 ---
+
+## 🏆 Awards & Fellowships
+
+- 🥇 **Best Data Schema Design** – Cambridge SupTech Hackathon (2024)  
+- 🥈 **First Runner-Up** – Power Learn Hackathon (AquafeedKE, 2022)  
+- 🥉 **Second Runner-Up** – Jacob’s Ladder Hackathon (Kambare, 2022)  
+- 🎓 **UNESCO Fellowship** – Global Health & SDGs  
+- 🎓 **MOFCOM Full Scholarship** – Suzhou University (China)  
+- 🧠 **KaggleX BIPOC Fellow** – Machine Learning Track  
+
+---
+
 ## 📫 Let’s Connect
+
 📧 josenyingi@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/josephnyingi](https://www.linkedin.com/in/josephnyingi/)  
-🔗 **Medium**: [medium.com/@Joseph_Nyingi](https://medium.com/@Joseph_Nyingi)
+🔗 [LinkedIn](https://www.linkedin.com/in/josephnyingi/)  
+🔗 [Medium](https://medium.com/@Joseph_Nyingi)  
+🔗 [GitHub Projects](https://github.com/Josephnyingi)
 
-
+> *“One forecast at a time, one farmer at a time — let’s build climate resilience.”*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
