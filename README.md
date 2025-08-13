@@ -20,7 +20,7 @@
 
 ## 💼 Roles I’ve Played
 
-- 🇯🇵 Research Apprentice @ Gifu University – Energy, data, sustainability  
+- 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Casual AI Discovery  
 - 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
 - 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
 - 🎓 Lecturer @ DeKUT – GIS, data science, and Envirnment Management
