@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I’m Joseph — I turn data into impact.
 
-🌍 **Team lead @Anga** | 📊 Data Scientist | 📡 Climate-Tech Innovator  
+🌍 **Team lead @Anga** | 📊 Data Scientist | 📡 Quality Analyst| 📡 Climate-Tech Innovator  
 👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
