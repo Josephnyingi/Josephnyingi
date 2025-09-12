@@ -20,7 +20,6 @@
 
 ## 💼 Roles I’ve Played
 
--Quality Analyst @ Cambridge Center for Alternative Finance
 - 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Casual AI Discovery  
 - 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
 - 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
