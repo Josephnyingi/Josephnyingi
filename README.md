@@ -1,6 +1,6 @@
 
 
-# 👋🏾 Hey, I’m Joseph — I turn data into impact.
+# 👋🏾 Hey, I’m Joseph — Delivering Reliable User & Client Solutions.
 
 🌍 **Team lead @Anga** | 📊 Data Scientist | 📡 Quality Analyst| 📡 Climate-Tech Innovator  
 👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
