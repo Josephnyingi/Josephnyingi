@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I’m Joseph — Delivering Reliable User & Client Solutions.
 
-🌍 **Team lead @Anga** | 📊 Data Scientist | 📡 Quality Analyst| 📡 Climate-Tech Innovator  
+🌍 **Quality Analyst @ Cambridge Centre for Alternative Finance
 👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
