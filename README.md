@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I’m Joseph — Delivering Reliable User & Client Solutions.
 
-🌍 **Quality Analyst @ Cambridge Centre for Alternative Finance
+🌍 **Quality Analyst @ Cambridge SupTech Lab
 👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
@@ -23,7 +23,7 @@
 - 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Casual AI Discovery  
 - 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
 - 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
-- 🎓 Lecturer @ DeKUT – GIS, data science, and Envirnment Management
+- 🎓 Lecturer @ DeKUT – GIS, data science, and Environment Management
 - 🤖 AI Trainer @ Appen – Curated global training data for ML/AI models  
 - 🧑🏾‍💻 KaggleX BIPOC Fellow – Computer Vision model builder
 
