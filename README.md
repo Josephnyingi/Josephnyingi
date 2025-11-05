@@ -32,7 +32,7 @@
 ## 🛠️ Skills
 
 **Languages**: Python · R · SQL  
-**Frameworks**: FastAPI · Flask · Flutter · USSD APIs  
+**Frameworks**: FastAPI · Flask · Nuxt · Flutter· USSD APIs  
 **Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly  · Redash · Metabase
 **Infra**: Git · GitHub Actions · GCP · Africa’s Talking  
 
