@@ -2,8 +2,8 @@
 
 # 👋🏾 Hey, I’m Joseph — Delivering Reliable User & Client Solutions.
 
-🌍 **Quality Analyst @ Cambridge SupTech Lab
-👨🏾‍🏫 Educator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
+🌍 **Quality Analyst 
+👨🏾‍🏫 Innovator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
 ---
