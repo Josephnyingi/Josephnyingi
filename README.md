@@ -14,7 +14,7 @@
 - **Inclusive Data Systems** – APIs & platforms for underserved users (Fintech, Health, Ag)  
 - **Geospatial Dashboards** – Visualizing climate, agriculture, and policy-linked data  
 - **OpenAPI Schemas** – Award-winning frameworks for climate finance tracking  
-- **Teaching** – Mentoring students & teams on sustainable tech and data science
+- **Teaching** – Mentoring students & teams on sustainable tech and AI systems
 
 ---
 
@@ -56,7 +56,6 @@
 🔗 [Medium](https://medium.com/@Joseph_Nyingi)  
 🔗 [GitHub Projects](https://github.com/Josephnyingi)
 
-> *“One forecast at a time, one farmer at a time — let’s build climate resilience.”*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
