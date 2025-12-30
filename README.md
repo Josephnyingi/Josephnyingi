@@ -10,7 +10,7 @@
 
 ## 🔭 What I'm Building
 
-- **Anga)** – USSD-based weather forecasts + carbon scoring for farmers  
+- **Anga** – USSD-based weather forecasts + carbon scoring for farmers  
 - **Inclusive Data Systems** – APIs & platforms for underserved users (Fintech, Health, Ag)  
 - **Geospatial Dashboards** – Visualizing climate, agriculture, and policy-linked data  
 - **OpenAPI Schemas** – Award-winning frameworks for climate finance tracking  
@@ -32,6 +32,7 @@
 ## 🛠️ Skills
 
 **Languages**: Python · R · SQL  
+**Mathematics** Causal inference, causal graphs, DirectLiNGAM, Bayesian Networks.
 **Frameworks**: FastAPI · Flask · Nuxt · Flutter· USSD APIs  
 **Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly  · Redash · Metabase
 **Infra**: Git · GitHub Actions · GCP · Africa’s Talking  
