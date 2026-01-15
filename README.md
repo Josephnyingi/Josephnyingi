@@ -2,7 +2,7 @@
 
 # 👋🏾 Hey, I’m Joseph — Delivering Reliable User & Client Solutions.
 
-🌍 Quality Analyst 
+🌍 Quality Analyst, 🤖 Software Engineer, AI Engineer, 
 👨🏾‍🏫 Innovator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
 
