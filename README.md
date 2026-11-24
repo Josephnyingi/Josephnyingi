@@ -55,7 +55,7 @@
 
 ## 🏆 Awards & Fellowships
 
-- 🥇 **Best Data Schema Design** – Cambridge SupTech Hackathon (2024)  
+- 🥇 **Best Data Schema Design** – Cambridge SupTech Lab × FINOS × NVIDIA Hackathon (2024)  
 - 🥈 **First Runner-Up** – Power Learn Hackathon (AquafeedKE, 2022)  
 - 🥉 **Second Runner-Up** – Jacob’s Ladder Hackathon (Kambare, 2022)  
 - 🎓 **UNESCO Fellowship** – Global Health & SDGs  
