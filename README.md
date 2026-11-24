@@ -5,6 +5,14 @@
 🌍 QA Engineer, 🤖 Software Engineer, AI Engineer, 
 👨🏾‍🏫 Innovator | 🧪 Researcher | 💡 Builder of offline-first digital solutions  
 🏆 Hackathon Winner | 🎓 UNESCO & MOFCOM Scholar | 🧠 KaggleX Fellow  
+🔥 PhD research in ammonia combustion modelling @ Gifu University (2023–2026)  
+
+---
+
+## 🔬 Featured Research
+
+- **[NH3 Mechanism Comparison](https://github.com/Josephnyingi/NH3-mechanism-comparison)** – Ammonia plug-flow reactor in Cantera. Compares GRI-Mech 3.0 with full and reduced Okafor mechanisms, matches my Chemkin results within 1%, and uses sensitivity analysis to show why the reduced mechanism under-predicts NH3 oxidation 8-fold.
+- **[G-RIPS Sendai 2025 – Fujitsu](https://www.mccs.tohoku.ac.jp/g-rips/)** – Tested how reliable Fujitsu's Causal Discovery AI (DirectLiNGAM) is on 3,840 synthetic datasets. Built the data pipeline and led the Streamlit interface.
 
 ---
 
@@ -20,7 +28,10 @@
 
 ## 💼 Roles I’ve Played
 
-- 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Casual AI Discovery  
+- 🇯🇵 PhD Researcher @ Gifu University – Ammonia combustion modelling (Chemkin, Converge, Cantera)  
+- 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Causal AI Discovery  
+- 🛡️ QA Engineer – Public finance & governance platform serving 140+ agencies in 100+ countries (API validation, PostgreSQL, Docker, Jest)  
+- 🐄 QA / LLM Observability – GenAI fintech platform for livestock farmers: traced and debugged LLM agent pipelines in staging and production  
 - 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
 - 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
 - 🎓 Lecturer @ DeKUT – GIS, data science, and Environment Management
@@ -32,9 +43,12 @@
 ## 🛠️ Skills
 
 **Languages**: Python · R · SQL  
-**Mathematics** Causal inference, causal graphs, DirectLiNGAM, Bayesian Networks.
+**Mathematics**: Causal inference · causal graphs · DirectLiNGAM · Bayesian Networks  
+**Scientific Computing**: Cantera · Chemkin · Converge · chemical kinetics · sensitivity analysis  
+**QA & Testing**: API validation · Jest · Docker · PostgreSQL (DBeaver) · acceptance testing  
+**AI / LLM**: LLM tracing · agent debugging · output evaluation · AI training data  
 **Frameworks**: FastAPI · Flask · Nuxt · Flutter· USSD APIs  
-**Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly  · Redash · Metabase
+**Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly · Redash · Metabase  
 **Infra**: Git · GitHub Actions · GCP · Africa’s Talking  
 
 ---
