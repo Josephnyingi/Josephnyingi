@@ -16,6 +16,16 @@
 
 ---
 
+## 🧱 Systems I've Built
+
+- **Live competition leaderboards** – Registration, heats and lanes, judge-scored results that update live, and custom tie-break rules. Run at fitness competitions in Nairobi.
+- **Gym operations systems** – Front-desk member check-in, coach sign-in and punctuality, rota and pay dashboards, and coach performance tracking.
+- **Business websites** – Sites for gyms, coaching businesses and a physiotherapy clinic, with services, events, booking and contact.
+- **Product catalogue** – Online catalogue for a gym equipment distributor.
+- **Dual-payment membership** – Mobile-first waitlist and membership with Bitcoin Lightning or M-Pesa payment, for a community run club.
+
+---
+
 ## 🔭 What I'm Building
 
 - **Anga** – USSD-based weather forecasts + carbon scoring for farmers  
