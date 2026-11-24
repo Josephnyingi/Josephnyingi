@@ -40,8 +40,8 @@
 
 - 🇯🇵 PhD Researcher @ Gifu University – Ammonia combustion modelling (Chemkin, Converge, Cantera)  
 - 🇯🇵 Technical Assistant @ Tohoku University, WPI-AIMR– Modern Causal AI Discovery  
-- 🛡️ QA Engineer – Public finance & governance platform serving 140+ agencies in 100+ countries (API validation, PostgreSQL, Docker, Jest)  
-- 🐄 QA / LLM Observability – GenAI fintech platform for livestock farmers: traced and debugged LLM agent pipelines in staging and production  
+- 🛡️ QA Engineer @ Digital Transformation Solutions – Testing GovSpace, a platform for financial regulators (API validation, PostgreSQL, Docker, Jest)  
+- 🇬🇧 QA Analyst @ Cambridge SupTech Lab  
 - 🌍 Data & Tech Consultant @ Catalyst Fund – Built dashboards for African startups  
 - 🇿🇦 Fellow @ SARAO – Designed farmer-facing weather & satellite data platforms  
 - 🎓 Lecturer @ DeKUT – GIS, data science, and Environment Management
@@ -56,7 +56,7 @@
 **Mathematics**: Causal inference · causal graphs · DirectLiNGAM · Bayesian Networks  
 **Scientific Computing**: Cantera · Chemkin · Converge · chemical kinetics · sensitivity analysis  
 **QA & Testing**: API validation · Jest · Docker · PostgreSQL (DBeaver) · acceptance testing  
-**AI / LLM**: LLM tracing · agent debugging · output evaluation · AI training data  
+**AI Evaluation**: testing models against known answers · AI training data  
 **Frameworks**: FastAPI · Flask · Nuxt · Flutter· USSD APIs  
 **Data Tools**: QGIS · ArcGIS · Power BI · Pandas · Plotly · Redash · Metabase  
 **Infra**: Git · GitHub Actions · GCP · Africa’s Talking  
